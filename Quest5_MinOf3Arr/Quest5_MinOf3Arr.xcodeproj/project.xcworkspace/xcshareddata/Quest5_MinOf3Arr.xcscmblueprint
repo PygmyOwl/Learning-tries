@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "29F33EF64819B5EEE6BB4686DD0E963B0A563CC4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "29F33EF64819B5EEE6BB4686DD0E963B0A563CC4" : 9223372036854775807,
+    "FE5B0B909C80F37362F2DA34DE5D888CCD0448F2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "06779AE2-58AE-461D-B353-75A4B44FB855",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "29F33EF64819B5EEE6BB4686DD0E963B0A563CC4" : "Studies\/",
+    "FE5B0B909C80F37362F2DA34DE5D888CCD0448F2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Quest5_MinOf3Arr",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Quest5_MinOf3Arr\/Quest5_MinOf3Arr.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PygmyOwl\/Learning-tries.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "29F33EF64819B5EEE6BB4686DD0E963B0A563CC4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PygmyOwl\/VKApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FE5B0B909C80F37362F2DA34DE5D888CCD0448F2"
+    }
+  ]
+}
